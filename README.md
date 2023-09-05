@@ -1,4 +1,5 @@
 # react-tutorials
 
-npm install
-npm start
+### running projects
+- npm install
+- npm start
